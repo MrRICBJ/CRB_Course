@@ -39,8 +39,9 @@ git clone https://github.com/MrRICBJ/CRB_Course
 ```
 cd CRB_Course/configs
 ```
-# Подставляем свой токен от @BotFather(bot_t)
+# Подставляем свой токен от @BotFather(bot_t) в файл config.yml
 > tg_token: "bot_t"
+# Открываем Docker
 # Запускаем
 ```
 make run
