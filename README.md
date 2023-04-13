@@ -43,6 +43,6 @@ cd CRB_Course/configs
 > tg_token: "bot_t"
 # Запускаем
 ```
-go run cb/cmd/main
+make run
 ```
 ![Image alt](https://github.com/MrRICBJ/CRB_Course/blob/main/Screen%20Shot%202023-04-13%20at%2016.19.26.png)
